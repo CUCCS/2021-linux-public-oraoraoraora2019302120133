@@ -45,3 +45,13 @@ VS code、cmd、virtualbox
 ### 实验中遇到的问题及解决
 
 1.vscode无法ssh连接上虚拟机，解决方法是在git文件夹中找到ssh.exe并导入至ssh-remote中，即可解决
+
+实验报告及代码参考
+
+[fu](https://github.com/CUCCS/2021-linux-public-NobugFuML)
+
+[zong](https://github.com/CUCCS/2021-linux-public-deqianyangzong)
+
+[tong](https://github.com/CUCCS/2021-linux-public-Lu-tong-hub)
+
+以及老师的视频等
